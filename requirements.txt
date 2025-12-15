@@ -2,10 +2,11 @@ streamlit
 pandas
 numpy
 joblib
-scikit-learn
+scikit-learn==1.7.2
 openpyxl
 pyopenms
 torch
 jcamp
+
 
 
